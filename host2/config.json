@@ -1,0 +1,6 @@
+{
+    "private_key_length": "257",
+    "message": "Hi, from Bob!",
+    "alice_port": "54321",
+    "bob_port": "54322"
+}
